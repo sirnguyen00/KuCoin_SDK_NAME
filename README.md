@@ -1,0 +1,2 @@
+# KuCoin_SDK_NAME
+SDK
